@@ -83,7 +83,7 @@ cardTitle3.style.fontFamily = "Montserrat"
 
 let cardText = document.querySelector(".cardText")
 cardText.style.fontFamily = "Montserrat"
-cardText.style.fontWeight = "500"
+cardText.style.fontWeight = "800"
 
 let cardText2 = document.querySelector(".cardText2")
 cardText2.style.color = "rgb(250, 68, 83)"
@@ -95,7 +95,7 @@ cardText3.style.color = "rgb(250, 68, 83)"
  
 let cardText4 = document.querySelector(".cardText4")
 cardText4.style.fontFamily = "Montserrat"
-cardText4.style.fontWeight = "500"
+cardText4.style.fontWeight = "800"
  
 let cardText5 = document.querySelector(".cardText5")
 cardText5.style.fontFamily = "Montserrat"
@@ -111,7 +111,7 @@ cardText7.style.color = "rgb(250, 68, 83)"
  
 let cardText8 = document.querySelector(".cardText8")
 cardText8.style.fontFamily = "Montserrat"
-cardText8.style.fontWeight = "500"
+cardText8.style.fontWeight = "800"
  
 let cardText9 = document.querySelector(".cardText9")
 cardText9.style.color = "rgb(250, 68, 83)"
