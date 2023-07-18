@@ -78,7 +78,7 @@ let cardTitle2 = document.querySelector(".cardTitle2")
 cardTitle2.style.fontFamily = "Montserrat"
 
 let cardTitle3 = document.querySelector(".cardTitle3")
-cardTitle.style.fontFamily = "Montserrat"
+cardTitle3.style.fontFamily = "Montserrat"
 
 
 let cardText = document.querySelector(".cardText")
